@@ -1,6 +1,6 @@
 package string;
 
-public class compressString {
+public class CompressString {
     public static void main(String[] args) {
         String str = "xababcdcdababcdcd";
         int min = str.length();

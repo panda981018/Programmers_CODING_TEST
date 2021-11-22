@@ -1,4 +1,4 @@
-package ExSearch;
+package exSearch;
 
 public class PrimeNumber {
     public static void main(String[] args) {
