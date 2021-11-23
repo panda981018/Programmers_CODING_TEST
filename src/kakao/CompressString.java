@@ -1,4 +1,4 @@
-package string;
+package kakao;
 
 public class CompressString {
     public static void main(String[] args) {
