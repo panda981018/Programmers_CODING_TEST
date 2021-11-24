@@ -5,6 +5,11 @@ public class Ternary {
         System.out.println(solution(45));
     }
 
+    /**
+     *
+     * @param numbers 10진수
+     * @return numbers를 뒤집고 10진수로 리턴
+     */
     public static int solution(int numbers) {
         String answer = "";
         while (numbers / 3 > 0) {
